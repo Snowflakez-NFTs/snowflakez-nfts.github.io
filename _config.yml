@@ -1,0 +1,30 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://snowflakez-nfts.github.io
+title: SnowflakeZ NFTs
+email: queenlinux.eth@ethermail.io
+author: Queen Linux
+description: > # "Write an awesome description for your new site here. 
+  SnowflakeZ are ERC-721 Tokens on the Polygon Blockchain. The SnowflakeZ Project represents hypnotism, and the infinite fractalization of our psyches. These SnowflakeZ are more than you can imagine.
+copyright: 'Copyright &copy; 2023 Queen Linux Technology Group. All Rights Reserved.'
+credits: ''
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/queenlinux
+  - title: github
+    url: https://github.com/QueenLinuxGlitch
