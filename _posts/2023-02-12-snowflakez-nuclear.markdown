@@ -5,7 +5,7 @@ category: Services
 title: Nuclear SnowflakeZ
 description: |
 ---
-  NSNOW is 100 Snowflake Mandalas, rapidly flashing at 60FPS, currently contact me on Twitter @queenlinux to enter the Minting. Limited to 100.
+  NSNOW is 100 Snowflake Mandalas, rapidly flashing at 60FPS, 5.5 MATIC. Limited to 100.
 
 <!-- NFT-Inator minting button -->
 <div id="rampp-minting-container-6274d626-154f-4807-b03f-15420d206dc5" class="rampp-minting-container">
