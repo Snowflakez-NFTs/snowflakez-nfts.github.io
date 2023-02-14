@@ -5,7 +5,7 @@ category: Services
 title: Rainbow SnowflakeZ
 description: |
 ---
-  RSNOW is a 1000-set ERC-721 collectible on the Polygon Chain. They can be broken. They can be mesmerizing. They are more than you can imagine. Much more than normal snowflakes.
+  RSNOW is a 1000-set ERC-721 collectible on the Polygon Chain. They can be broken. They can be mesmerizing. They are more than you can imagine. Much more than normal snowflakes. 10 MATIC
 
   <!-- NFT-Inator minting button -->
 <div id="rampp-minting-container-05f741b6-e953-472e-8572-9c6411055d3c" class="rampp-minting-container">
